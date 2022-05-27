@@ -9,4 +9,5 @@ CourseProgrammingApp merupakan aplikasi belajar bahasa pemrograman untuk pemula 
 ### Login and Signup
 ![LoginAndSignup](https://user-images.githubusercontent.com/92679271/170695986-044d0d08-b1d8-4286-947a-1699931cea75.png)
 
-### Dashboard and more menu
+### Main Menu
+![Group 4](https://user-images.githubusercontent.com/92679271/170697434-8d5198e9-3f77-4559-85f2-15067b8600d1.png)
